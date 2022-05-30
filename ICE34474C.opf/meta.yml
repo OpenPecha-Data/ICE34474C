@@ -1,0 +1,31 @@
+id: ICE34474C
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T05:05:29.230264'
+last_modified: '2022-05-31T05:05:29.230269'
+parser: null
+source_metadata:
+  title: Lochen Dharmaśrī Series
+  language: bo
+  description: 'Texts by and about Lochen Dharmaśrī (lo chen dhar+ma shrI, 1654–1717/18),
+    the younger brother of Minling Terchen Gyurme Dorje and a major figure in the
+    Nyingma tradition:'
+  volume:
+    f8DE1:
+      title: A Brief Explanation of the Ten Virtues and Eighteen Elements
+      base_file: f8DE1.txt
+      order: 1
+      parent: Abhidharma
+    fA27F:
+      title: Prayer for the Long Life of Lochen Ngawang Chöpal
+      base_file: fA27F.txt
+      order: 2
+      parent: Long Life Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
